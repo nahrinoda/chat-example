@@ -6,7 +6,7 @@ of the Socket.IO website.
 
 ## To run this application:
 
-1- clone this repo.
-2- npm install
-3- node index.js
-4- http://localhost:3000
+1. clone this repo.
+2. npm install
+3. node index.js
+4. http://localhost:3000
